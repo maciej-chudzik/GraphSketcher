@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ImageSketcher",
+        "repositoryURL": "https://github.com/maciej-chudzik/ImageSketcher.git",
+        "state": {
+          "branch": "main",
+          "revision": "6613f0409d6d34cd04123da07db31cf57665b025",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
