@@ -1,3 +1,3 @@
 # GraphSketcher
 
-A description of this package.
+Draw multiple graphs as UIImageView
